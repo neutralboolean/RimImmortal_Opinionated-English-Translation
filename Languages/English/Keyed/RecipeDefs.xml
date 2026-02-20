@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Copy "{Name}" book -->
+	<RI_Recipe_CopyBook_Label>Make a copy of "{Name}"</RI_Recipe_CopyBook_Label>
+	<RI_Recipe_CopyBook_Description>Making a copy of the "{Name}" manuscript's text is a time-intensive and delicate task, requiring the use of spiritual crystals as the pen and liquid jade as the ink.</RI_Recipe_CopyBook_Description>
+</LanguageData>

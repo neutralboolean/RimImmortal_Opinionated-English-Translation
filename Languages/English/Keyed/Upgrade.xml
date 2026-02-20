@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- UNUSED -->
+	<NoBeginUpgrade>{Name} cannot attempt </NoBeginUpgrade>
+	<BeginUpgrade>Attempting the spiritual rank promotion.</BeginUpgrade>
+	<RitualInProgress>{Name} is attempting to achieve the next spiritual rank.</RitualInProgress>
+	<NoSpiritualBud>It's impossible to promote your rank without a spiritual root.</NoSpiritualBud>
+	<NotAtBottleneck> rank not perfect</NotAtBottleneck>
+	<RitualCanBeCastAgain>The promotion ritual is available again.</RitualCanBeCastAgain>
+	<RitualStarted>Began the promotion ritual.</RitualStarted>
+	<RitualCanceled>The promotion ritual was canceled.</RitualCanceled>
+	<TimeForUpgrade>{Name} can now attempt to promote their realm.</TimeForUpgrade>
+	<NeedUpgradeSpot>This must be placed near the promotion platform.</NeedUpgradeSpot>
+	<CountMax>Maximum count reached.</CountMax>
+	<VisitOutdoorExercises>Outdoor exercises</VisitOutdoorExercises>
+	<OutdoorExercisesNotion>Outdoor exercises</OutdoorExercisesNotion>
+	<OutdoorExercisesXPGain>cultivating spirital Qi</OutdoorExercisesXPGain>
+
+</LanguageData>
