@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!--============修炼者============-->
+    <!--defName>RI_Backstory_CultivatorChild1</defName>
+    <title>Innate energy root</title>
+    <titleShort>Innate energy root</titleShort>
+    <description>[PAWN_nameDef] was seen as an anomaly during his childhood, due to [PAWN_pronoun]'s ability to control his Qi having been revealed as an infant. This was kept hidden from [PAWN_possessive]'s family until [PAWN_pronoun] reached adulthood.</description-->
+    <RI_Backstory_CultivatorChild1.title>congenital cultivator</RI_Backstory_CultivatorChild1.title>
+    <RI_Backstory_CultivatorChild1.titleShort>congenital cultivator</RI_Backstory_CultivatorChild1.titleShort>
+    <RI_Backstory_CultivatorChild1.description>[PAWN_nameDef] has always been stronger, faster, wiser than normal children. Only a passing martial artist was able to sense the spiritual roots twining through [PAWN_possessive] body and the Qi already suffusing [PAWN_possessive] breathing, as if [PAWN_pronoun] had been practicing cultivation since birth.</RI_Backstory_CultivatorChild1.description>
+    <!-- I made this change because the original talks about adulthood, when there is no guarantee that the child makes it that far. This is the Rim after all. -->
+
+
+    <!--defName>RI_Backstory_CultivatorChild2</defName>
+    <title>Artificial energy root</title>
+    <titleShort>Artificial energy root</titleShort>
+    <description>[PAWN_nameDef]Born into a large family. The [PAWN_possessive] family spent a lot of money to get a spirit bud, and after a minor surgery, [PAWN_pronoun] had the power to control his Qi.</description -->
+    <RI_Backstory_CultivatorChild2.title>spirit bud implanter</RI_Backstory_CultivatorChild2.title>
+    <RI_Backstory_CultivatorChild2.titleShort>spirit bud implanter</RI_Backstory_CultivatorChild2.titleShort>
+    <RI_Backstory_CultivatorChild2.description>[PAWN_nameDef] was born into a rich family who invested vast sums of to acquire a spirit bud. Implanted under the care of elite surgeons, [PAWN_possessive] new spirit bud has vaulted them onto the path of cultivation.</RI_Backstory_CultivatorChild2.description>
+
+
+    <!--defName>RI_Backstory_CultivatorChild3</defName>
+    <title>Experimental material</title>
+    <titleShort>Experimental material</titleShort>
+    <description>For as long as he can remember, [PAWN_nameDef]'s world has consisted of nurses in white coats and glass walls. [PAWN_pronoun] developed a deep friendship with a nurse who secretly let [PAWN_nameDef] go.</description -->
+    <RI_Backstory_CultivatorChild3.title>escaped experiment</RI_Backstory_CultivatorChild3.title>
+    <RI_Backstory_CultivatorChild3.titleShort>escaped experiment</RI_Backstory_CultivatorChild3.titleShort>
+    <RI_Backstory_CultivatorChild3.description>For as long as [PAWN_pronoun] could remember, [PAWN_nameDef]'s world had only been senseless experiments and cold experimenters gazing in from observation rooms. The only brightness in [PAWN_possessive] life was an unexpected friendship with a single experimenter, the person who eventually helped them escape.</RI_Backstory_CultivatorChild3.description>
+
+
+    <!--defName>RI_Backstory_CultivatorChild4</defName>
+    <title>Nobody child</title>
+    <titleShort>Nobody child</titleShort>
+    <description>[PAWN_nameDef] is an eccentric child who never cried at birth. But [PAWN_pronoun] learns everything quickly, and occasionally spouts off comments that no one can understand.</description -->
+    <RI_Backstory_CultivatorChild4.title>spirit beast child</RI_Backstory_CultivatorChild4.title>
+    <RI_Backstory_CultivatorChild4.titleShort>feral child</RI_Backstory_CultivatorChild4.titleShort>
+    <RI_Backstory_CultivatorChild4.description>Raised as a human among spiritual beasts, [PAWN_nameDef] knew nothing human niceties and plenty about which animals [PAWN_pronoun] could intimidate and which [PAWN_pronoun] could kill.</RI_Backstory_CultivatorChild4.description>
+    <!-- this and "unassuming child" had the exact same description. However, "unassuming child's" skill boosts seemed to match the description more, so they gained custody and I made this to match the story told by the original stats.-->
+
+    <!--============可以是修炼者============-->
+    <!--defName>RI_Backstory_Child1</defName>
+    <title>Young adulthood</title>
+    <titleShort>Young adulthood</titleShort>
+    <description>[PAWN_nameDef] 's family is very poor, [PAWN_possessive]' s hands have long rubbed out blisters in the work, and people around [PAWN_objective] all say [PAWN_pronoun] is a sensible child.</description-->
+    <RI_Backstory_Child1.title>impoverished urchin</RI_Backstory_Child1.title>
+    <RI_Backstory_Child1.titleShort>impoverished urchin</RI_Backstory_Child1.titleShort>
+    <RI_Backstory_Child1.description>Long days of work besides [PAWN_possessive] family have sanded down the blisters on [PAWN_possessive] thin hands. Poverty made [PAWN_nameDef] grow up too early although the people around [PAWN_objective] say [PAWN_pronoun] is a very sensible child.</RI_Backstory_Child1.description>
+
+    <!--defName>RI_Backstory_Child2</defName>
+    <title>Evil child</title>
+    <titleShort>Evil child</titleShort>
+    <description>[PAWN_nameDef's] brain circuits are different from those of ordinary people, and [PAWN_pronoun] has lost its reverence for all earthly things.</description-->
+    <RI_Backstory_Child2.title>Demonic child</RI_Backstory_Child2.title>
+    <RI_Backstory_Child2.titleShort>Demonic child</RI_Backstory_Child2.titleShort>
+    <RI_Backstory_Child2.description>[PAWN_nameDef]'s brain worked in ways that were fundamentally incompatible with ordinary people, and [PAWN_pronoun] actively opposed anything people took pleasure in.</RI_Backstory_Child2.description>
+
+    <!--defName>RI_Backstory_Child3</defName>
+    <title>Innocent child</title>
+    <titleShort>Innocent child</titleShort>
+    <description>[PAWN_nameDef] had a very happy childhood, and [PAWN_nameDef] was possessive of [PAWN_pronoun] by his family, and he was able to feed himself well from childhood, which helped [Pawn_namedef] develop an optimistic personality.</description-->
+    <RI_Backstory_Child3.title>beloved child</RI_Backstory_Child3.title>
+    <RI_Backstory_Child3.titleShort>beloved child</RI_Backstory_Child3.titleShort>
+    <RI_Backstory_Child3.description>[PAWN_nameDef] had a very happy childhood as [PAWN_pronoun] was beloved by [PAWN_possessive] family. [PAWN_pronoun] never had a hungry day in [PAWN_possessive] life and so grew to develop an optimistic mindset.</RI_Backstory_Child3.description>
+
+
+    <!--defName>RI_Backstory_Child4</defName>
+    <title>Unassuming child</title>
+    <titleShort>Unassuming child</titleShort>
+    <description>[PAWN_nameDef] is an eccentric child who never cried at birth. But [PAWN_pronoun] learns everything quickly, and occasionally spouts off comments that no one can understand.</description-->
+    <RI_Backstory_Child4.title>abnormal child</RI_Backstory_Child4.title>
+    <RI_Backstory_Child4.titleShort>abnormal child</RI_Backstory_Child4.titleShort>
+    <RI_Backstory_Child4.description>[PAWN_nameDef] came into the world not with tears but a clear-eyed observation of [PAWN_possessive] surroundings. [PAWN_pronoun] was taught one thing and learns a hundred lessons from it, and [PAWN_pronoun] often made comments that no one in the village could understand.</RI_Backstory_Child4.description>
+
+
+    <!--defName>RI_Backstory_Child5</defName>
+    <title>Homeless child</title>
+    <titleShort>Homeless child</titleShort>
+    <description>[PAWN_nameDef] lost his family when he was a child, and due to [PAWN_pronoun's] good physical quality, he was selected by an organization and trained as an assassin.</description-->
+    <RI_Backstory_Child5.title>assassin trainee</RI_Backstory_Child5.title>
+    <RI_Backstory_Child5.titleShort>assassin trainee</RI_Backstory_Child5.titleShort>
+    <RI_Backstory_Child5.description>[PAWN_nameDef] was orphaned early in life. [PAWN_possessive] misfortune only grew when [PAWN_pronoun] caught the eye of a shadowy organization that highly valued [PAWN_possessive] physical qualities and abducted [PAWN_objective] to be trained as an assassin.</RI_Backstory_Child5.description>
+
+    <!--2025/4月新增背景故事：云家族人相关，散修相关-->
+    
+    <!-- Because of the lore that there are multiple families contained within the Yun "family", I decided that it would be more accurate to call them a Clan.-->
+
+    <!--云家遗族孩童-->
+    <!--defName>RI_Backstory_Child_Yun1</defName>
+    <title>Yun family survivor's child</title>
+    <titleShort>Yun family child</titleShort>
+    <description>The Yun family fell into decline during the Sect Wars, but under the leadership of Master Tianyun, they rose to prominence once more. However, in the end, they could not overcome time and gradually faded into obscurity.\n[PAWN_nameDef] was born into a humble family, only discovering [PAWN_possessive] family's history many years later. Determined, [PAWN_pronoun] set his sights on entering the cultivation world to continue the glorious legacy of [PAWN_possessive] ancestors.</description-->
+    <RI_Backstory_Child_Yun1.title>Yun Clan descendant</RI_Backstory_Child_Yun1.title>
+    <RI_Backstory_Child_Yun1.titleShort>clan descendant</RI_Backstory_Child_Yun1.titleShort>
+    <RI_Backstory_Child_Yun1.description>The Yun Clan had already rebounded from devastation once under the leadership of Master Tianyun, in the wake of the ancient Sect Wars. But even that renewed prominence had faded into obscurity long ago.\n[PAWN_nameDef] was born into a humble family and only later learned of their distant connection to greatness. But [PAWN_pronoun] became determined to uplift [PAWN_possessive] family and the Yun Clan, just like Master Tianyun.</RI_Backstory_Child_Yun1.description>
+
+
+    <!--云家外族孩童-->
+    <!--defName>RI_Backstory_Child_Yun2</defName>
+    <title>Yun family foreign's child</title>
+    <titleShort>Yun family child</titleShort>
+    <description>After the fall of the Yun family, a portion of the surviving descendants fled to distant lands. After parting ways, they established new families. While perusing old books in his family’s collection, [PAWN_nameDef] stumbled upon this forgotten history. Although [PAWN_possessive] family had changed its name and abandoned all ties to the past, [PAWN_nameDef] made the resolute decision to venture into the cultivation world, seeking out other surviving members of the Yun family.</description-->
+    <RI_Backstory_Child_Yun2.title>Yun diaspora descendant</RI_Backstory_Child_Yun2.title>
+    <RI_Backstory_Child_Yun2.titleShort>diaspora descendant</RI_Backstory_Child_Yun2.titleShort>
+    <RI_Backstory_Child_Yun2.description>After the fall of the Yun family in the ancient Sect Wars, a portion of the surviving descendants fled to distant lands and established new families.\nWhile perusing old books in [PAWN_possessive] family’s collection, [PAWN_nameDef] stumbled upon their forgotten history. Although [PAWN_possessive] family had abandoned all ties to the past, and even their ancestral surname, [PAWN_nameDef] made the resolute decision to venture into the cultivation world and seek out other surviving members of the Yun Clan.</RI_Backstory_Child_Yun2.description>
+    
+    <!-- Adult Backstories -->
+    <!--============修炼者============-->
+
+    <!--defName>RI_Backstory_CultivatorAdult1</defName>
+    <title>Cultivator</title>
+    <titleShort>Cultivator</titleShort>
+    <description>[PAWN_nameDef]Learned the art of cultivation in adulthood. With the support of his family, [PAWN_pronoun] took the path of immortal cultivation.</description-->
+    <RI_Backstory_CultivatorAdult1.title>cultivator</RI_Backstory_CultivatorAdult1.title>
+    <RI_Backstory_CultivatorAdult1.titleShort>cultivator</RI_Backstory_CultivatorAdult1.titleShort>
+    <RI_Backstory_CultivatorAdult1.description>Through the backing of [PAWN_possessive] family, [PAWN_nameDef] built a foundation to start learning the art of cultivation in adulthood. Now [PAWN_pronoun] has stepped onto the path of immortal cultivation.</RI_Backstory_CultivatorAdult1.description>
+
+    <!--defName>RI_Backstory_CultivatorAdult2</defName>
+    <title>Free cultivator</title>
+    <titleShort>Free cultivator</titleShort>
+    <description>[PAWN_nameDef]'s cultivation path was not smooth. After many years of hard work, [PAWN_nameDef] chose to travel the world in the clouds and live without restraints.</description-->
+    <RI_Backstory_CultivatorAdult2.title>loose cultivator</RI_Backstory_CultivatorAdult2.title>
+    <RI_Backstory_CultivatorAdult2.titleShort>loose cultivator</RI_Backstory_CultivatorAdult2.titleShort>
+    <RI_Backstory_CultivatorAdult2.description>[PAWN_nameDef]'s cultivation path was not smooth. After many years of hard work, [PAWN_nameDef] chose to let fate decide [PAWN_possessive] fortunes and live [PAWN_possessive] life unfettered.</RI_Backstory_CultivatorAdult2.description>
+    
+    <defName>RI_Backstory_CultivatorAdult3</defName>
+    <title>Revenge cultivator</title>
+    <titleShort>Revenger</titleShort>
+    <description>[PAWN_nameDef] Once a cultivator, [PAWN_pronoun] was severely wounded in a siege against the cultivators. All of [PAWN_possessive]'s companions were killed, but [PAWN_pronoun] managed to escape. From that moment on, revenge became [PAWN_possessive]'s main goal.</description>
+    <RI_Backstory_CultivatorAdult3.title>avenging cultivator</RI_Backstory_CultivatorAdult3.title>
+    <RI_Backstory_CultivatorAdult3.titleShort>avenger</RI_Backstory_CultivatorAdult3.titleShort>
+    <RI_Backstory_CultivatorAdult3.description>[PAWN_nameDef] once proudly practiced the art of cultivation, and steadfastly pursued immortality. But when [PAWN_pronoun] was severely wounded in a siege against other cultivators, [PAWN_pronoun] only managed to flee at the cost of [PAWN_possessive] companions' lives. [PAWN_possessive] cultivation path twisted at that moment, and practicing cultivation became simply a tool for revenge.</RI_Backstory_CultivatorAdult3.description>
+    
+    <!--defName>RI_Backstory_CultivatorAdult4</defName>
+    <title>Bad cultivator</title>
+    <titleShort>Bad cultivator</titleShort>
+    <description>[PAWN_nameDef] has experienced a walk-in, which has irreversibly altered [PAWN_possessive]'s brain. [PAWN_pronoun] became incapable of using long range weapons and has a short and irritable temper.</description-->
+    <RI_Backstory_CultivatorAdult4.title>deviant cultivator</RI_Backstory_CultivatorAdult4.title>
+    <RI_Backstory_CultivatorAdult4.titleShort>deviant cultivator</RI_Backstory_CultivatorAdult4.titleShort>
+    <RI_Backstory_CultivatorAdult4.description>[PAWN_nameDef] suffered a disturbance during a critical moment of cultivation practice that afflicted [PAWN_objective] with Qi deviation. This left [PAWN_possessive] brain irreversibly altered: [PAWN_possessive] reasoning became erratic and [PAWN_possessive] temper, explosive. And, for some reason, [PAWN_pronoun] refuses to fight with anything but melee weapons.</RI_Backstory_CultivatorAdult4.description>
+
+    <!--defName>RI_Backstory_CultivatorAdult5</defName>
+    <title>Wicked cultivator</title>
+    <titleShort>Wicked cultivator</titleShort>
+    <description>Kidnapping, stealing, robbing, [PAWN_nameDef] has never cared to gain profit through normal means.</description -->
+    <RI_Backstory_CultivatorAdult5.title>demonic cultivator</RI_Backstory_CultivatorAdult5.title>
+    <RI_Backstory_CultivatorAdult5.titleShort>demonic cultivator</RI_Backstory_CultivatorAdult5.titleShort>
+    <RI_Backstory_CultivatorAdult5.description>Kidnapping, stealing, robbing; the ends have always justified the means for [PAWN_nameDef] and there hasn't been a crime too heinous for [PAWN_nameDef] to commit yet. For the Dao contains all paths, including [PAWN_possessive].</RI_Backstory_CultivatorAdult5.description>
+    
+    <!--defName>RI_Backstory_Assassin1</defName>
+    <title>Successful assassin</title>
+    <titleShort>Assassin</titleShort>
+    <description>[PAWN_nameDef] used to infiltrate a faction and kill its leader, so [Pawn_namedef] gained self-confidence.</description-->
+    <RI_Backstory_Assassin1.title>high-profile assassin</RI_Backstory_Assassin1.title>
+    <RI_Backstory_Assassin1.titleShort>high-profile assassin</RI_Backstory_Assassin1.titleShort>
+    <RI_Backstory_Assassin1.description>[PAWN_nameDef] recently infiltrated a prominent nearby faction and killed its leader. The whole countryside has been hunting [PAWN_objective] down, but [PAWN_pronoun] has been living lavishly off of [PAWN_possessive] work's reward.</RI_Backstory_Assassin1.description>
+    
+    <!--defName>RI_Backstory_Assassin2</defName>
+    <title>Unknown assassin</title>
+    <titleShort>Assassin</titleShort>
+    <description>[PAWN_nameDef] did not like to kill people, [PAWN_pronoun] just to make money, went down this road.</description-->
+    <RI_Backstory_Assassin2.title>mercenary assassin</RI_Backstory_Assassin2.title>
+    <RI_Backstory_Assassin2.titleShort>mercenary assassin</RI_Backstory_Assassin2.titleShort>
+    <RI_Backstory_Assassin2.description>[PAWN_nameDef] wasn't fond of killing people, but [PAWN_pronoun] liked poverty even less.</RI_Backstory_Assassin2.description>
+    
+    
+    <!--defName>RI_Backstory_SwordMan1</defName>
+    <title>Sword mad man</title>
+    <titleShort>Sword mad man</titleShort>
+    <description>[PAWN_nameDef] went further and further in his study of kendo, and [PAWN_pronoun] once killed a man in the street who despised [PAWN_pronoun's] swordsmanship, and then fled the scene.</description-->
+    <RI_Backstory_SwordMan1.title>sword ghost</RI_Backstory_SwordMan1.title>
+    <RI_Backstory_SwordMan1.titleShort>sword ghost</RI_Backstory_SwordMan1.titleShort>
+    <RI_Backstory_SwordMan1.description>[PAWN_nameDef] had always been committed to the study of swordsmanship. When [PAWN_pronoun] heard rumors of an acquaintance ridiculing [PAWN_possessive] knowledge of the sword, [PAWN_pronoun] found them and killed them in the street before fleeing.</RI_Backstory_SwordMan1.description>
+    
+    <!--defName>RI_Backstory_SwordMan2</defName>
+    <title>Sword mad man</title>
+    <titleShort>Sword mad man</titleShort>
+    <description>[PAWN_nameDef] has a very high talent for kendo, but [PAWN_pronoun] lost a duel to a swordsman who was younger than [PAWN_pronoun], so [PAWN_pronoun] gradually exceeded the ordinary people's training, and eventually became a sword-lover. But [PAWN_pronoun] doesn't care, [PAWN_pronoun] just wants to wield the sword!</description-->
+    <RI_Backstory_SwordMan2.title>sword devil</RI_Backstory_SwordMan2.title>
+    <RI_Backstory_SwordMan2.titleShort>sword devil</RI_Backstory_SwordMan2.titleShort>
+    <RI_Backstory_SwordMan2.description>[PAWN_nameDef] always had an innate affinity for bladed weapons, but something changed when [PAWN_pronoun] lost a duel to a younger, less-experienced swordsman. [PAWN_pronoun] became obsessed with swords, gradually exceeding the bounds of any normal training. The sword became [PAWN_possessive] sole existence.</RI_Backstory_SwordMan2.description>
+    
+    <!-- I decided to stick with some pretty famous terms for these backstories as they sound more evocative, in my opinion. -->
+    
+            <!--============可以是修炼者============-->
+    <!--defName>RI_Backstory_Adult1</defName>
+    <title>Nobody</title>
+    <titleShort>Nobody</titleShort>
+    <description>[PAWN_nameDef] has been quietly playing bystander in the world, and with each new place, [PAWN_pronoun] lives under a different identity.</description-->
+    <RI_Backstory_Adult1.title>vagrant</RI_Backstory_Adult1.title>
+    <RI_Backstory_Adult1.titleShort>vagrant</RI_Backstory_Adult1.titleShort>
+    <RI_Backstory_Adult1.description>[PAWN_nameDef] has worn many hats in many towns, forever the bystander. And along the way [PAWN_pronoun] has picked up the skills necessary to make [PAWN_possessive] way in the dangerous cultivation world.\nThere is always a wake in the aftermath of their movements as if there were something unspeakably profound about them.</RI_Backstory_Adult1.description>
+    
+    <!-- I believe this is playing up the trope of the traveling expert who hides their skills, so I -->
+    
+    <!--defName>RI_Backstory_Adult2</defName>
+    <title>Dishonest businessman</title>
+    <titleShort>Businessman</titleShort>
+    <description>[PAWN_nameDef] is not only miserly, but greedy. [PAWN_pronoun] won't let any lucrative business go by, nor will he let any scrap of silver slip through [PAWN_possessive]'s fingers.</description-->
+    <RI_Backstory_Adult2.title>money grubber</RI_Backstory_Adult2.title>
+    <RI_Backstory_Adult2.titleShort>money grubber</RI_Backstory_Adult2.titleShort>
+    <RI_Backstory_Adult2.description>[PAWN_nameDef] was both greedy and miserly. [PAWN_pronoun] would sooner die than let a even solitary scrap of silver slip through [PAWN_possessive] fingers without blood or sweat in exchange.</RI_Backstory_Adult2.description>
+    
+    <!-- Unnecessary change but 'dishonest business' didn't really have much impact, nor describe the apparent greed for wealth -->
+    
+</LanguageData>
