@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <RI_Building_Cauldrons.label>Tai Yi cauldron</RI_Building_Cauldrons.label>
+    <RI_Building_Cauldrons.description>A large, standardized cauldron that can be used to refine more potent medicine.</RI_Building_Cauldrons.description>
+
+    
+    <RI_Building_CrystalVeinDetector.label>spiritual crystal vein detector</RI_Building_CrystalVeinDetector.label>
+    <RI_Building_CrystalVeinDetector.description>Using lens formed from liquid jade that are aligned by the precise mechanisms of complex gear machinery, the spiritual crystal vein detector acts like a compass to divine the location of underground veins of spiritual crystal.</RI_Building_CrystalVeinDetector.description>
+    
+    
+    <RI_Building_ElixirsWorkbench.label>elixir workbench</RI_Building_ElixirsWorkbench.label>
+    <RI_Building_ElixirsWorkbench.description>A table for grinding herbs to powder and preparing other medicinal materials.\n\nAfter researching brewing and psy-leaf products, additional items can also be crafted at the elixir workbench.</RI_Building_ElixirsWorkbench.description>
+
+    <RI_Building_MedicinalMaterialShelf.label>medicinal materiel shelf</RI_Building_MedicinalMaterialShelf.label>
+    <RI_Building_MedicinalMaterialShelf.description>A special cabinet for storing herbs, with many small drawers on it.\n\nImproves work efficiency when placed near an elixir workbench.</RI_Building_MedicinalMaterialShelf.description>
+
+    
+    <RI_Building_CultivationSpot.label>cultivation spot</RI_Building_CultivationSpot.label>
+    <RI_Building_CultivationSpot.description>A simple spot to meditate and acquire Qi.</RI_Building_CultivationSpot.description>
+
+    <RI_Building_StoneSittingPlatform.label>cultivation platform</RI_Building_StoneSittingPlatform.label>
+    <RI_Building_StoneSittingPlatform.description>A large platform, specialized for Qi cultivation. Constructed in a specific formation and with many materials, the platforms aids cultivators in rapidly gathering Qi, which is a boon for new cultivator and a necessity for the later stages.\n\nSpecial buildings can be placed nearby to improve the efficiency of Qi acquisition.</RI_Building_StoneSittingPlatform.description>
+
+    
+    <RI_Building_UpgradeSpot.label>promotion spot</RI_Building_UpgradeSpot.label>
+    <RI_Building_UpgradeSpot.description>A simple spot that a cultivator has marked as suitable for attempting to break through to a higher realms of cultivation.\nIt is a necessity if a cultivator wants to attempt to break through their current realm and promote.</RI_Building_UpgradeSpot.description>
+
+    <RI_Building_BetterUpgradePlatform.label>promotion platform</RI_Building_BetterUpgradePlatform.label>
+    <RI_Building_BetterUpgradePlatform.description>A more ceremonial platform to mark a suitable place for attempting to break through to higher realms of cultivation.\n\nThis platform has no special effects beyond a promotion spot but is extremely sturdy, capable of withstanding damage to the surrounding area from lightning tribulations or cultivators.</RI_Building_BetterUpgradePlatform.description>
+
+
+    <RI_Building_Necropolis.label>cultivator's mausoleum</RI_Building_Necropolis.label>
+    <RI_Building_Necropolis.description>A huge mausoleum, so grand that it must have built to house a long-forgotten cultivator. The building cannot hide the potent breaths of Qi exuding from treasures entombed with the owner.</RI_Building_Necropolis.description>
+
+    
+    <RI_Building_PrayerAltarTable.label>Celestial Immortals altar</RI_Building_PrayerAltarTable.label>
+    <RI_Building_PrayerAltarTable.description>An altar dedicated to the worship of the Celestial Immortals. Offerings like spiritual crystals are placed on the altar while praying, and talismans and runes are crafted upon it.\n\nCultivators who sincerely pray at the offering table, using certain materials, may be able to draw the blessings of the Celestial Immortals. With the power of the Immortals, special items can be synthesized using the prayer altar.</RI_Building_PrayerAltarTable.description>
+
+    
+    <RI_Building_StudyDesklabel>cultivation research desk</RI_Building_StudyDesklabel>
+    <RI_Building_StudyDeskdescription>A desk specialized for studying beginner cultivation manuals, which can also be used as an ordinary research desk.</RI_Building_StudyDeskdescription>
+
+    <RI_Building_HiTechResearchDesk.label>hi-tech research desk</RI_Building_HiTechResearchDesk.label>
+    <RI_Building_HiTechResearchDesk.description>Harnessing electricity and computer technology has allowed cultivators to use the computer as an analytical tool to more effectively study the intricacies of Qi. It also provides some auxiliary functionality by helping to process documents and various raw materials.\n\nThe hi-tech research desk can also be used to study beginner cultivation manuals and skill books.</RI_Building_HiTechResearchDesk.description>
+
+    
+    <RI_Building_AncientPagoda.label>ancient pagoda</RI_Building_AncientPagoda.label>
+    <RI_Building_AncientPagoda.description>An ancient stone pagoda with a history lost to time. Something within exudes dense Qi energy.</RI_Building_AncientPagoda.description>
+    <!-- The language is fine on this one but [opinion alert!] 100 to 200 years is hardly "ancient" by most human standards, let alone cultivators that can live thousands of years. -->
+
+
+    <RI_SpiritualRock.label>spiritual monolith</RI_SpiritualRock.label>
+    <RI_SpiritualRock.description>A large rock embedded with spiritual crystals which allows Qi to slowly infuse into the surroundings. The effect is surprisingly refreshing, providing a mood boost, and it can slightly increase the speed of cultivation.\n\nBonuses to mood and Qi growth are not additive with multiple spiritual monoliths.</RI_SpiritualRock.description>
+
+
+    <RI_Building_CycloneLandmine.description>A bundle of spinning, raging blades transfixed inside a translucent sac of air, waiting for someone to trigger an explosion.</RI_Building_CycloneLandmine.description>
+
+
+    <RI_Building_ThunderColumn.label>lightning tribulation column</RI_Building_ThunderColumn.label>
+    <RI_Building_ThunderColumn.description>A column forged from steel and embedded with components formed from spiritual crystal. This pillar possesses the ability to attract the lightning,allowing cultivators to break through without suffering the full destructive force of lightning tribulations.\n\nIn ancient cultivation eras, such structures did not exist. Ancient cultivators would endure "heavenly tribulation" with their own bodies to demonstrate their resilience and defiance of heaven's will. However, with the advancement of Qi energy studies, scholars discovered that the lightning was merely drawn to intense spiritual reactions, and there was no so-called divine will obstructing one's ascension to immortality.</RI_Building_ThunderColumn.description>
+
+</LanguageData>

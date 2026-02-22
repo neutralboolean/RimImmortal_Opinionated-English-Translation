@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+        <RI_OnFutonverb>cultivate</RI_OnFutonverb>
+        <RI_OnFutongerund>cultivating</RI_OnFutongerund>
+
+        <RI_OnStoneSittingPlatformlabel>cultivation on platform</RI_OnStoneSittingPlatformlabel>
+        <RI_OnStoneSittingPlatformverb>cultivate</RI_OnStoneSittingPlatformverb>
+        <RI_OnStoneSittingPlatformgerund>cultivating</RI_OnStoneSittingPlatformgerund>
+    
+        <RI_OnCultivationSpot.verb>cultivate</RI_OnCultivationSpot.verb>
+        <RI_OnCultivationSpot.gerund>cultivating</RI_OnCultivationSpot.gerund>
+
+        <RI_DoBillsUseAltarTable.label>make things at altar table</RI_DoBillsUseAltarTable.label>
+</LanguageData>
