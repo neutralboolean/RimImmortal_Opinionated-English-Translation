@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--仙路特殊攻击-->
+    <!--defName>RI_Cut</defName>
+    <label>Cut</label>
+    <deathMessage>{0} chopped to pieces.</deathMessage-->
+    <RI_Cut.label>Slash</RI_Cut.label>
+    <RI_Cut.deathMessage>{0} was slashed to pieces.</RI_Cut.deathMessage>
+
+    <!--破甲-->
+    <defName>RI_Damage_ArmorBreakCut</defName>
+    <label>Armor break cut</label>
+
+
+    <!--===================增加Hediff==========================-->
+    <!--defName>RI_Damage_ArmorBreak</defName>
+    <label>Armor break</label -->
+    <RI_Damage_ArmorBreak.label>sundered armor</RI_Damage_ArmorBreak.label>
+
+    <!--增加Hediff-->
+    <!--破甲-->
+    <!--defName>RI_Damage_ArmorBreak_breakBuilding</defName>
+    <label>Armor break</label -->
+    <RI_Damage_ArmorBreak_breakBuilding.label>sundered armor</RI_Damage_ArmorBreak_breakBuilding.label>
+
+    
+    <!--穿刺-->
+    <!--defName>RI_Damage_Puncture</defName-->
+
+
+    <!-- 香水瓶 -->
+    <!--defName>RI_PerfumeToxGas</defName>
+    <label>overwhelming aroma</label -->
+    <RI_PerfumeToxGas.label>noxious perfume</RI_PerfumeToxGas.label>
+    
+    <!--眩晕-->
+    <!--defName>RI_Damage_Vertigo</defName-->
+    
+    <!-- 麻醉钉刺 -->
+    <!--defName>RI_Dm_AnestheticNeedle</defName>
+    <deathMessage>{0} was paralyzed to death</deathMessage -->
+    <RI_Dm_AnestheticNeedle.deathMessage>{0}'s heart was stopped by anesthesia.</RI_Dm_AnestheticNeedle.deathMessage>
+        
+</LanguageData>
