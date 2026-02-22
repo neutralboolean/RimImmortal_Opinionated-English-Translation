@@ -3,10 +3,10 @@
 
 	<!-- UNUSED -->
 	<NoBeginUpgrade>{Name} cannot attempt </NoBeginUpgrade>
-	<BeginUpgrade>Attempting the spiritual rank promotion.</BeginUpgrade>
-	<RitualInProgress>{Name} is attempting to achieve the next spiritual rank.</RitualInProgress>
-	<NoSpiritualBud>It's impossible to promote your rank without a spiritual root.</NoSpiritualBud>
-	<NotAtBottleneck> rank not perfect</NotAtBottleneck>
+	<BeginUpgrade>Attempting the spiritual realm promotion.</BeginUpgrade>
+	<RitualInProgress>{Name} is attempting to achieve the next spiritual realm.</RitualInProgress>
+	<NoSpiritualBud>It's impossible to promote your realm without a spiritual root.</NoSpiritualBud>
+	<NotAtBottleneck>{Name}'s realm not perfect</NotAtBottleneck>
 	<RitualCanBeCastAgain>The promotion ritual is available again.</RitualCanBeCastAgain>
 	<RitualStarted>Began the promotion ritual.</RitualStarted>
 	<RitualCanceled>The promotion ritual was canceled.</RitualCanceled>
