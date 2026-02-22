@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <JobDef>
+        <defName>RI_OnFuton</defName>
+        <driverClass>Core.JobDriver_RI_OnFuton</driverClass>
+        <reportString>meditating</reportString>
+        <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+    </JobDef>
+</LanguageData>
