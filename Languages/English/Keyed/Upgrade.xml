@@ -2,19 +2,19 @@
 <LanguageData>
 
 	<!-- UNUSED -->
-	<NoBeginUpgrade>{Name} cannot attempt the realm promotion.</NoBeginUpgrade>
-	<BeginUpgrade>Attempting a spiritual realm promotion.</BeginUpgrade>
-	<RitualInProgress>{Name} is attempting to achieve the next spiritual realm.</RitualInProgress>
+	<NoBeginUpgrade>Unable to attempt a realm breakthrough.</NoBeginUpgrade>
+	<BeginUpgrade>Attempting a spiritual realm breakthrough.</BeginUpgrade>
+	<RitualInProgress>{Name} is attempting to break through to next spiritual realm.</RitualInProgress>
 	<NoSpiritualBud>It's impossible to promote your realm without a spiritual root.</NoSpiritualBud>
-	<NotAtBottleneck>{Name}'s realm not perfect</NotAtBottleneck>
-	<RitualCanBeCastAgain>The promotion ritual is available again.</RitualCanBeCastAgain>
-	<RitualStarted>Began the promotion ritual.</RitualStarted>
-	<RitualCanceled>The promotion ritual was canceled.</RitualCanceled>
-	<TimeForUpgrade>{Name} can now attempt to promote their realm.</TimeForUpgrade>
+	<NotAtBottleneck>The cultivator has not reached the bottleneck necessary to force a breakthrough.</NotAtBottleneck>
+	<RitualCanBeCastAgain>The breakthrough ritual is available again.</RitualCanBeCastAgain>
+    <RitualFailed>TODO</RitualFailed>
+    <RitualFinished>TODO</RitualFinished>
+	<RitualStarted>Began the breakthrough ritual.</RitualStarted>
+	<RitualCanceled>The breakthrough ritual was canceled.</RitualCanceled>
+	<TimeForUpgrade>A cultivator can now attempt to promote their realm.</TimeForUpgrade>
 	<NeedUpgradeSpot>This must be placed near the promotion platform.</NeedUpgradeSpot>
 	<CountMax>Maximum count reached.</CountMax>
-	<VisitOutdoorExercises>Outdoor exercises</VisitOutdoorExercises>
-	<OutdoorExercisesNotion>Outdoor exercises</OutdoorExercisesNotion>
-	<OutdoorExercisesXPGain>cultivating spirital Qi</OutdoorExercisesXPGain>
+	<VisitOutdoorExercises>World Excursions</VisitOutdoorExercises>
 
 </LanguageData>

@@ -9,4 +9,7 @@
 	<NoHediff>Only cultivators in the Earth Immortal realm can undergo Ascension.</NoHediff>
 	<Ascension>Beginning the Ascension Ritual...</Ascension>
 
+    <!-- UNUSED -->
+    <TimeForAscension>CLAIMED TO BE UNUSED (TimeForAscension)</TimeForAscension>
+
 </LanguageData>
