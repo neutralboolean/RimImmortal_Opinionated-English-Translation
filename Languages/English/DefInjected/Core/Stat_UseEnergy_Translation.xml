@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--defName>GI_EnergyGainEff</defName>
+    <label>Energy gain efficiency</label>
+    <description>The efficiency with which a cultivator acquires Qi while practicing.</description -->
+    <GI_EnergyGainEff.label>Qi Cultivation Efficiency</GI_EnergyGainEff.label>
+    <GI_EnergyGainEff.description>A cultivator's efficiency at acquiring Qi while practicing cultivation.</GI_EnergyGainEff.description>
+
+    <!-- 灵气吸收效率乘数 Spiritual Energy Growth Efficiency Multiplier-->
+    <!--defName>GI_EnergyGainEffFactor</defName>
+    <label>灵气增长效率乘数</label>
+    <description>灵气增长效率乘数</description -->
+    <GI_EnergyGainEffFactor.label>Qi Growth Multiplier</GI_EnergyGainEffFactor.label>
+    <GI_EnergyGainEffFactor.description>The multiplier applied to growth efficiency while practicing cultivation.</GI_EnergyGainEffFactor.description>
+    
+
+    <!--defName>GI_EnergyLoseEff</defName>
+    <label>Energy lose efficiency</label>
+    <description>The multiplier of Qi that the cultivator consumes when using the sorcery.</description -->
+    <GI_EnergyLoseEff.label>Qi Consumption Multiplier</GI_EnergyLoseEff.label>
+    <GI_EnergyLoseEff.description>The multiplier applied to the Qi consumption cost of cultivator abilities.</GI_EnergyLoseEff.description>
+
+    <!--defName>GI_EnergyReGainEff</defName>
+    <label>Energy recover efficiency</label>
+    <description>The multiplier of the speed at which a cultivator regenerates after using a skill.</description -->
+    <GI_EnergyReGainEff.label>Qi Recovery Multiplier</GI_EnergyReGainEff.label>
+    <GI_EnergyReGainEff.description>The multiplier applied to the recovery speed of Qi after using cultivator abilities.</GI_EnergyReGainEff.description>
+</LanguageData>

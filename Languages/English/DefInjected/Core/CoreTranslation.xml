@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+        <!--第0级境界——蓬絮 >
+        <defName>RI_Sinsack</defName>
+        <label>蓬絮</label-->
+    <RI_Sinsack.label>Mundane</RI_Sinsack.label>
+
+        <!--第1级境界——凝气 >
+        <defName>RI_Training</defName>
+        <label>凝气</label-->
+    <RI_Training.label>Qi Condensation</RI_Training.label>
+
+        <!--第2级境界——固基 >
+        <defName>RI_Training1</defName>
+        <label>固基</label-->
+    <RI_Training1.label>Foundation Establishment</RI_Training1.label>
+
+        <!--第3级境界——化丹 >
+        <defName>RI_Training2</defName>
+        <label>化丹</label-->
+    <RI_Training2.label>Core Formation</RI_Training2.label>
+
+        <!--第4级境界——结丹 >
+        <defName>RI_Training3</defName>
+        <label>结丹</label-->
+    <RI_Training3.label>Core Transformation</RI_Training3.label>
+
+        <!--第5级境界——灵丹 >
+        <defName>RI_Training4</defName>
+        <label>灵丹</label-->
+    <RI_Training4.label>Golden Core</RI_Training4.label>
+
+        <!--第6级境界——化神 >
+        <defName>RI_Training5</defName>
+        <label>化神</label-->
+    <RI_Training5.label>Soul Transformation</RI_Training5.label>
+
+        <!--第7级境界——元婴 >    
+        <defName>RI_Training6</defName>
+        <label>元婴</label-->
+    <RI_Training6.label>Nascent Soul</RI_Training6.label>
+
+        <!--第8级境界——大成 >
+        <defName>RI_Training7</defName>
+        <label>大成</label-->
+    <RI_Training7.label>Soul Perfection</RI_Training7.label>
+
+        <!--第9级境界——合体 >
+        <defName>RI_Training8</defName>
+        <label>合体</label-->
+    <RI_Training8.label>Gestalt Integration</RI_Training8.label>
+
+        <!--第10级境界——登仙 >
+        <defName>RI_Training9</defName>
+        <label>登仙</label-->
+    <RI_Training9.label>Earth Immortal</RI_Training9.label>
+    
+    <!--========修炼对应的丹田之类的hediff========-->
+
+        <!--defName>RI_Hediff_Beginning</defName>
+        <label>Noviciate rank</label>
+        <description>Spiritual root began to absorb the whole body Qi, Qi to improve the body, so that the physical quality becomes stronger.</description-->
+    <RI_Hediff_Beginning.label>Qi Condensation Realm</RI_Hediff_Beginning.label>
+    <RI_Hediff_Beginning.description>As my spiritual roots awaken throughout the entire body and begins to absorb Qi, the body experiences a qualitative improvement as every capacity becomes greater.</RI_Hediff_Beginning.description>
+    
+        <!--defName>RI_Hediff_Foundation</defName>
+        <label>Foundation rank</label>
+        <description>Qi opens up the meridians of the whole body and is used to transport Qi, making the release of Qi more stable.</description-->
+    <RI_Hediff_Foundation.label>Foundation Establishment Realm</RI_Hediff_Foundation.label>
+    <RI_Hediff_Foundation.description>Qi flows through every vein and suffuses every bit of tissue, rebuilding this mortal body into an excellent foundation for further cultivation.</RI_Hediff_Foundation.description>
+    
+        <!--defName>RI_Hediff_CoreFormation</defName>
+        <label>Core-formation rank</label>
+        <description>Through the energy root, I initially felt the existence of core, and began to consciously use Qi to exercise core.</description-->
+    <RI_Hediff_CoreFormation.label>Core Formation Realm</RI_Hediff_CoreFormation.label>
+    <RI_Hediff_CoreFormation.description>Introspection through the spiritual roots </RI_Hediff_CoreFormation.description>
+    
+        <defName>RI_Hediff_CoreCoagulation</defName>
+        <label>Core-coagulation rank</label>
+        <description>Have been able to do the Qi liquefaction, and gradually master the use of core tips.</description>
+    <RI_Hediff_CoreCoagulation.label>Core Transformation Realm</RI_Hediff_CoreCoagulation.label>
+    <RI_Hediff_CoreCoagulation.description></RI_Hediff_CoreCoagulation.description>
+    
+        <defName>RI_Hediff_CoreImmaculacy</defName>
+        <label>Core-consummation rank</label>
+        <description>Finally in the core place to cultivate a perfect golden core, and can use this to nourish the body.</description>
+    <RI_Hediff_CoreImmaculacy.label>Golden Core Realm</RI_Hediff_CoreImmaculacy.label>
+    <RI_Hediff_CoreImmaculacy.description></RI_Hediff_CoreImmaculacy.description>
+    
+        <!--defName>RI_Hediff_Shackle</defName>
+        <label>Spirit constraint rank</label>
+        <description>A layer of fetters that is difficult to break through makes the progress of cultivation stagnate.</description-->
+    <RI_Hediff_Shackle.label>Soul Transformation Realm</RI_Hediff_Shackle.label>
+    <RI_Hediff_Shackle.description>Nature has ensnared every living thing with layers of fetters, chaining body and soul to the tyranny of 'natural laws.' As a cultivator's progress begins to stagnate, </RI_Hediff_Shackle.description>
+    
+        <!--defName>RI_Hediff_PrimordialSpiritBaby</defName>
+        <label>Primordial-spirit baby rank</label>
+        <description>In the core there is born a still insignificant consciousness, which is connected with the mind of the cultivator. This consciousness is the Primordial spirit, which can not only greatly enhance the individual ability of cultivator, but also make the Qi like an arm and exert unparalleled power.</description-->
+    <RI_Hediff_PrimordialSpiritBaby.label>Nascent Soul Realm</RI_Hediff_PrimordialSpiritBaby.label>
+    <RI_Hediff_PrimordialSpiritBaby.description>Safely gestated inside a Golden Core, the transformed soul gives birth to an infantile spirit made of Qi that is tethered to a cultivator's will. Although it is barely conscious, the Nascent Soul's connection to and usage of Qi is unparalleled and so, by extension, is the cultivator's.</RI_Hediff_PrimordialSpiritBaby.description>
+    
+        <!--defName>RI_Hediff_PrimordialSpiritMaturation</defName>
+        <label>Primordial-spirit maturity rank</label>
+        <description>The Primordial deity has matured and can be regarded as the second embodiment of the cultivator, who can communicate with heaven and earth and mobilize part of the power of law while assisting cultivation.</description-->
+    <RI_Hediff_PrimordialSpiritMaturation.label>Soul Perfection Realm</RI_Hediff_PrimordialSpiritMaturation.label>
+    <RI_Hediff_PrimordialSpiritMaturation.description>Strenuous effort sees a cultivator's Qi Soul mature into their twin, the mirror of a cultivator with a natural intuition for the deeper mysteries of Qi. The perfected Soul can assist a cultivator in decrypting the laws and esoterica of late-stage Qi cultivation.</RI_Hediff_PrimordialSpiritMaturation.description>
+    
+        <!-- default: defName>RI_Hediff_PrimordialSpiritCombine-->
+        <!-- default: label>Primordial-spirit combine rank-->
+        <!-- default: description>The cultivator himself has been fully synchronized with the primitive God, and can become one, return to nature, and thus glimpse the road to immortal.-->
+    <RI_Hediff_PrimordialSpiritCombine.label>Gestalt Integration Realm</RI_Hediff_PrimordialSpiritCombine.label>
+    <RI_Hediff_PrimordialSpiritCombine.description>The cultivator fuses with their Perfected Soul and becomes a gestalt being of Qi and matter, soul and flesh. Now manipulating Qi happens at level that is almost autonomic, more natural than blinking or breathing.\nLike civilization freed man to be able to ponder philosophy, now that the minutiae of Qi usage has been handled, cultivators always find themselves looking toward the next step.</RI_Hediff_PrimordialSpiritCombine.description>
+    
+        <!-- default: defName>RI_Hediff_Immortal-->
+        <!-- default: label>Terrestrial immortal rank-->
+        <!-- default: description>You have been top, become the Terrestrial immortal through life, or became god, all in your mind between. -->
+    <RI_Hediff_Immortal.label>Earth Immortal Realm</RI_Hediff_Immortal.label>
+    <RI_Hediff_Immortal.description>"Achieving functional immortality has only just opened my eyes. I have reached the peak and found that there is something beyond the earth I claim dominion over.\nI can still ascend to something greater. Reach out to something beyond this planet, beyond the void, and touch upon power that is truly godlike."</RI_Hediff_Immortal.description>
+</LanguageData>
